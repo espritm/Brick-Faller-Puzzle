@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054670144918",
+    "firebase_url": "https://brick-faller-puzzle-33109218.firebaseio.com",
+    "project_id": "brick-faller-puzzle-33109218",
+    "storage_bucket": "brick-faller-puzzle-33109218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054670144918:android:022b099be97a9b166689b7",
+        "android_client_info": {
+          "package_name": "com.maximeesprit.brickfallerpuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054670144918-t4q8h05khnnrg7efg8puoaq1dfib8frq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMQK-ES48ehivVDCLyWfSTp75B68UMo24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054670144918-t4q8h05khnnrg7efg8puoaq1dfib8frq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
