@@ -1,4 +1,4 @@
-<h1>Brick Block Faller</h1>
+<h1>Brick Faller Puzzle</h1>
 
 This is a Tetris-like project I developed with Unity for Android phones or tablets.
 
